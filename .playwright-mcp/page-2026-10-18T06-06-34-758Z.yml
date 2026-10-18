@@ -1,0 +1,37 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - button "새봄초등학교 우리반 알림장" [ref=e4] [cursor=pointer]:
+        - img [ref=e6]
+        - generic [ref=e8]: 새봄초등학교 우리반 알림장
+    - main [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]:
+          - generic [ref=e12]: 우리 반 소식, 한곳에서 편하게
+          - heading "오늘도 반가워요, 우리 반 친구들!" [level=1] [ref=e14]:
+            - text: 오늘도 반가워요,
+            - emphasis [ref=e15]: 우리 반 친구들!
+          - paragraph [ref=e16]: 학교 소식부터 급식, 시간표와 상담 일정까지. 선생님과 가족이 함께 확인하는 따뜻한 우리 반 알림장이에요.
+          - button "우리학급 포털로 이동해요" [ref=e18] [cursor=pointer]:
+            - text: 우리학급 포털로 이동해요
+            - generic [ref=e19]: →
+          - generic [ref=e20]: 학생·학부모는 학급 접속 코드와 학번, 이름으로 입장해요.
+        - img "여교사, 남교사, 여학생, 남학생, 어머니, 아버지 캐릭터" [ref=e23]
+      - generic [ref=e24]:
+        - article [ref=e25]:
+          - img "학생 캐릭터" [ref=e27]
+          - generic [ref=e28]:
+            - strong [ref=e29]: 놓치지 않는 우리 반 소식
+            - text: 학생과 학부모에게 필요한 안내를 따로
+        - article [ref=e30]:
+          - img "교사 캐릭터" [ref=e32]
+          - generic [ref=e33]:
+            - strong [ref=e34]: 한눈에 보는 학교생활
+            - text: 학사일정, 급식, 시간표를 모아서
+        - article [ref=e35]:
+          - img "학부모 캐릭터" [ref=e37]
+          - generic [ref=e38]:
+            - strong [ref=e39]: 따뜻하게 이어지는 상담
+            - text: 편리하게 확인하는 상담 일정과 알림
+      - paragraph [ref=e40]: 작은 소식도 함께 나누며, 즐거운 학교생활을 만들어가요.
+  - status

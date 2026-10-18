@@ -1,0 +1,129 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - button "새봄초등학교 우리반 알림장" [ref=e4] [cursor=pointer]:
+        - img [ref=e6]
+        - generic [ref=e8]: 새봄초등학교 우리반 알림장
+      - generic [ref=e9]:
+        - generic [ref=e10]: 마음이 오가는 우리 반 소식
+        - button "나가기" [ref=e11] [cursor=pointer]
+    - main [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - generic [ref=e15]: 담임교사 대시보드
+          - heading "선생님, 안녕하세요!" [level=1] [ref=e17]
+          - paragraph [ref=e18]: 3학년 2반 · 새봄초등학교
+        - generic [ref=e19]: 10월 18일 일요일
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - generic [ref=e22]: 우리 반 학생
+          - generic [ref=e23]: 5 명
+        - generic [ref=e24]:
+          - generic [ref=e25]: 전달한 알림
+          - generic [ref=e26]: 3 건
+        - generic [ref=e27]:
+          - generic [ref=e28]: 학급 접속 코드
+          - generic [ref=e29]: SAEBOM32
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - navigation [ref=e32]:
+            - button "알림장" [ref=e33] [cursor=pointer]
+            - button "학급 일정" [ref=e34] [cursor=pointer]
+            - button "시간표·급식" [ref=e35] [cursor=pointer]
+            - button "상담 일정" [ref=e36] [cursor=pointer]
+            - button "벌점 현황" [ref=e37] [cursor=pointer]
+            - button "학생 명단" [ref=e38] [cursor=pointer]
+            - button "관리자 설정" [ref=e39] [cursor=pointer]
+          - generic [ref=e40]:
+            - heading "우리 반 알림장" [level=2] [ref=e41]
+            - generic [ref=e42]:
+              - combobox "알림 대상 필터" [ref=e43]:
+                - option "전체" [selected]
+                - option "학생"
+                - option "학부모"
+              - button [ref=e44] [cursor=pointer]:
+                - img [ref=e45]: 새 알림 쓰기
+          - generic [ref=e46]:
+            - article [ref=e47]:
+              - generic [ref=e48]:
+                - heading "가을 현장체험학습 안내" [level=3] [ref=e49]
+                - paragraph [ref=e50]: 10월 24일 목요일에 가을 현장체험학습을 갑니다. 편한 운동화와 물을 챙겨 보내주세요.
+                - generic [ref=e51]:
+                  - generic [ref=e52]: 10월 18일
+                  - generic [ref=e53]: ·
+                  - generic [ref=e54]: 알림
+                  - generic [ref=e55]: ·
+                  - generic [ref=e56]: 전체 대상
+              - generic [ref=e57]:
+                - generic [ref=e58]: 전체
+                - button "알림 삭제" [ref=e59] [cursor=pointer]: ×
+            - article [ref=e60]:
+              - generic [ref=e61]:
+                - heading "이번 주 준비물" [level=3] [ref=e62]
+                - paragraph [ref=e63]: 수요일 미술 시간에 색종이와 풀을 사용합니다. 이름을 적어 준비해 주세요.
+                - generic [ref=e64]:
+                  - generic [ref=e65]: 10월 17일
+                  - generic [ref=e66]: ·
+                  - generic [ref=e67]: 알림
+                  - generic [ref=e68]: ·
+                  - generic [ref=e69]: 학생 대상
+              - generic [ref=e70]:
+                - generic [ref=e71]: 학생
+                - button "알림 삭제" [ref=e72] [cursor=pointer]: ×
+            - article [ref=e73]:
+              - generic [ref=e74]:
+                - heading "학부모 상담 신청 안내" [level=3] [ref=e75]
+                - paragraph [ref=e76]: 2학기 학부모 상담 신청이 시작되었습니다. 희망 일정을 선택해 주세요.
+                - generic [ref=e77]:
+                  - generic [ref=e78]: 10월 16일
+                  - generic [ref=e79]: ·
+                  - generic [ref=e80]: 알림
+                  - generic [ref=e81]: ·
+                  - generic [ref=e82]: 학부모 대상
+              - generic [ref=e83]:
+                - generic [ref=e84]: 학부모
+                - button "알림 삭제" [ref=e85] [cursor=pointer]: ×
+        - complementary [ref=e86]:
+          - generic [ref=e87]:
+            - generic [ref=e88]:
+              - heading "오늘의 우리 반" [level=2] [ref=e89]
+              - generic [ref=e90]: 5명 등록
+            - generic [ref=e91]:
+              - generic [ref=e92]:
+                - generic [ref=e93]: 08:50
+                - generic [ref=e94]:
+                  - strong [ref=e95]: 아침 인사와 하루 열기
+                  - generic [ref=e96]: 교실
+              - generic [ref=e97]:
+                - generic [ref=e98]: 10:00
+                - generic [ref=e99]:
+                  - strong [ref=e100]: 수학 · 분수의 크기 비교
+                  - generic [ref=e101]: 수학 교과서 준비
+              - generic [ref=e102]:
+                - generic [ref=e103]: 12:10
+                - generic [ref=e104]:
+                  - strong [ref=e105]: 점심시간
+                  - generic [ref=e106]: 오늘의 급식 확인하기
+          - generic [ref=e107]:
+            - heading "빠른 관리" [level=2] [ref=e109]
+            - generic [ref=e110]:
+              - button "새 알림 전달 대상별 공지 작성" [ref=e111] [cursor=pointer]:
+                - img [ref=e112]
+                - text: 새 알림 전달
+                - generic [ref=e114]: 대상별 공지 작성
+              - button "학생 관리 명단과 접속 코드" [ref=e115] [cursor=pointer]:
+                - img [ref=e116]
+                - text: 학생 관리
+                - generic [ref=e118]: 명단과 접속 코드
+              - button "환경 설정 학교 이름과 API 연결" [ref=e119] [cursor=pointer]:
+                - img [ref=e120]
+                - text: 환경 설정
+                - generic [ref=e123]: 학교 이름과 API 연결
+              - button "일정 관리 학급 일정 살펴보기" [ref=e124] [cursor=pointer]:
+                - img [ref=e125]
+                - text: 일정 관리
+                - generic [ref=e128]: 학급 일정 살펴보기
+          - generic [ref=e129]:
+            - strong [ref=e130]: 접속 정보를 안전하게 관리해 주세요
+            - text: 학생·학부모 접속 코드와 개인 정보는 학급 구성원에게만 안내해 주세요.
+  - status

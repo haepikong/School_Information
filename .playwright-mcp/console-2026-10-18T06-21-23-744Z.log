@@ -1,0 +1,5 @@
+[      62ms] [INFO] [preview-bridge] v1.1.0 @ https://8mf9rhplgy5v3izn.jitda.io/__preview-bridge.js:1
+[   15961ms] [VERBOSE] [DOM] Password forms should have (optionally hidden) username fields for accessibility: (More info: https://goo.gl/9p2vKq) %o @ https://8mf9rhplgy5v3izn.jitda.io/:0
+[   16465ms] [VERBOSE] [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o @ https://8mf9rhplgy5v3izn.jitda.io/:0
+[   16904ms] [VERBOSE] [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o @ https://8mf9rhplgy5v3izn.jitda.io/:0
+[   17169ms] [VERBOSE] [DOM] Multiple forms should be contained in their own form elements; break up complex forms into ones that represent a single action: (More info: https://goo.gl/9p2vKq) %o @ https://8mf9rhplgy5v3izn.jitda.io/:0
